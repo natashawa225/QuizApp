@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the name of the first widely used programming language?</questionString>
+        <option>C++</option>
+        <option answer="true">Fortran</option>
+        <option>Java</option>
+        <option>Pascal</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does CPU stand for?</questionString>
+        <option>Central Programming Unit</option>
+        <option answer="true">Central Processing Unit</option>
+        <option>Central Primary Unit</option>
+        <option>Central Peripheral Unit</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a type of loop in programming?</questionString>
+        <option>If-Else</option>
+        <option answer="true">While</option>
+        <option>Switch</option>
+        <option>Function</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the process of finding errors within a program and fixing them?</questionString>
+        <option>Compiling</option>
+        <option answer="true">Debugging</option>
+        <option>Scanning</option>
+        <option>Parsing</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a data structure that allows for efficient insertion and deletion of elements?</questionString>
+        <option>Array</option>
+        <option>Stack</option>
+        <option>Queue</option>
+        <option answer="true">Linked List</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is not a programming language?</questionString>
+        <option>Python</option>
+        <option answer="true">HTML</option>
+        <option>Java</option>
+        <option>Pascal</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is not a form of machine learning?</questionString>
+        <option answer="true">Linear Learning</option>
+        <option>Supervised Learning</option>
+        <option>Unsupervised Learning</option>
+        <option>Reinforcement Learning</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the name of the algorithmic technique that follows a step-by-step procedure to solve a problem?</questionString>
+        <option>Divide and Conquer</option>
+        <option answer="true">Dynamic Programming</option>
+        <option>Greedy</option>
+        <option>Randomized</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the full form of RAM?</questionString>
+        <option>Random Accessible Memory</option>
+        <option answer="true">Random Access Memory</option>
+        <option>Read Access Memory</option>
+        <option>Run Access Memory</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is used for version control in software development?</questionString>
+        <option>Docker</option>
+        <option>Jenkins</option>
+        <option answer="true">Git</option>
+        <option>Visual Studio Code</option>
+    </question>
+</questions>

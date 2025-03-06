@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which word is a synonym for “happy”?</questionString>
+        <option>sad</option>
+        <option answer="true">joyful</option>
+        <option>angry</option>
+        <option>tired</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is the correct past tense form of “go”?</questionString>
+        <option>goed</option>
+        <option answer="true">went</option>
+        <option>gone</option>
+        <option>go</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following sentences is correct?</questionString>
+        <option>She has went to the store.</option>
+        <option answer="true">She has gone to the store.</option>
+        <option>She have went to the store.</option>
+        <option>She had went to the store.</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which option correctly completes the sentence? “If I __ you, I would take the job.”</questionString>
+        <option>am</option>
+        <option answer="true">were</option>
+        <option>be</option>
+        <option>have been</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which word is the correct plural form of “mouse”?</questionString>
+        <option>mouses</option>
+        <option>mice</option>
+        <option>meese</option>
+        <option answer="true">mouse</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is a compound noun?</questionString>
+        <option>happiness</option>
+        <option answer="true">bookshelf</option>
+        <option>sunshine</option>
+        <option>sleepCorrect</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which option correctly completes the sentence? “She __ her homework every evening.”</questionString>
+        <option answer="true">does</option>
+        <option>do</option>
+        <option>doing</option>
+        <option>did</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which word is the correct antonym for “bitter”?</questionString>
+        <option>sour</option>
+        <option answer="true">sweet</option>
+        <option>spicy</option>
+        <option>salty</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a vowel?</questionString>
+        <option>f</option>
+        <option>b</option>
+        <option>r</option>
+        <option answer="true">a</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is the opposite of “hot”?</questionString>
+        <option>cold</option>
+        <option>warm</option>
+        <option>cool</option>
+        <option answer="true">cold</option>
+    </question>
+</questions>

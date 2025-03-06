@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the value of π (pi) to two decimal places?</questionString>
+        <option answer="true">3.14</option>
+        <option>3.141</option>
+        <option>3.145</option>
+        <option>3.24</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is the square root of 64?</questionString>
+        <option>6</option>
+        <option answer="true">8</option>
+        <option>10</option>
+        <option>12</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x in the equation 2x + 5 = 15.</questionString>
+        <option>x = 10</option>
+        <option answer="true">x = 5</option>
+        <option>x = 3</option>
+        <option>x = 6</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Which of the following is an irrational number?</questionString>
+        <option>√9</option>
+        <option answer="true">√2</option>
+        <option>√16</option>
+        <option>√25</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the area of a rectangle with a length of 8 units and a width of 3 units?</questionString>
+        <option>26 square units</option>
+        <option>11 square units</option>
+        <option>32 square units</option>
+        <option answer="true">24 square units</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Simplify the expression 3x - 2x + 4.</questionString>
+        <option answer="true">x + 4</option>
+        <option>6x</option>
+        <option>5x + 4</option>
+        <option>2x - 4</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the probability of rolling a 6 on a standard six-sided die?</questionString>
+        <option answer="true">1/6</option>
+        <option>1/3</option>
+        <option>1/2</option>
+        <option>1/4</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>How many sides does a regular hexagon have? </questionString>
+        <option>4</option>
+        <option answer="true">6</option>
+        <option>5</option>
+        <option>8</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 5 + 7?</questionString>
+        <option>10</option>
+        <option>15</option>
+        <option answer="true">12</option>
+        <option>14</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the value of x in the equation 3x - 9 = 0?</questionString>
+        <option>x = -3</option>
+        <option>x = 9</option>
+        <option>x = 6</option>
+        <option answer="true">x = 3</option>
+    </question>
+</questions>

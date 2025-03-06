@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="EASY">
+        <topic>Business</topic>
+        <questionString>What is a stakeholder in business?</questionString>
+        <option>A person who works in a company</option>
+        <option answer="true">A person or group with an interest in the success of a business</option>
+        <option>A competitor of the company</option>
+        <option>Someone who owns the company</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Business</topic>
+        <questionString>Which of the following is an example of a tangible asset?</questionString>
+        <option>Patents</option>
+        <option answer="true">Buildings</option>
+        <option>Brand reputation</option>
+        <option>Trademarks</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Business</topic>
+        <questionString>What does the acronym SWOT stand for in a business context?</questionString>
+        <option>Sales, Wealth, Opportunities, Trends</option>
+        <option>Strength, Weakness, Organization, Targets</option>
+        <option answer="true">Strengths, Weaknesses, Opportunities, Threats</option>
+        <option>Strategy, Work, Objectives, Tactics</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Business</topic>
+        <questionString>Which of the following best describes a business goal?</questionString>
+        <option>A personal objective of the manager</option>
+        <option>A vague statement of intent</option>
+        <option>Actions to achieve success</option>
+        <option answer="true">A specific, measurable objective the business aims to achieve</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Business</topic>
+        <questionString>What is the primary purpose of a balance sheet?</questionString>
+        <option>To show the company’s revenue and expenses</option>
+        <option answer="true">To show the company’s financial position at a specific time</option>
+        <option>To predict future profits</option>
+        <option>To compare expenses across departments</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Business</topic>
+        <questionString>Which of the following best describes the term "economies of scale"?</questionString>
+        <option>A method to measure financial performance</option>
+        <option answer="true">Cost advantages gained as production increases</option>
+        <option>The relationship between supply and demand</option>
+        <option>A company’s ability to scale its operations</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Business</topic>
+        <questionString>What does a "Mission Statement" typically define?</questionString>
+        <option>Annual financial goals</option>
+        <option>Long-term vision for growth</option>
+        <option>List of employees’ roles</option>
+        <option answer="true">The purpose and primary objectives of the business</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Business</topic>
+        <questionString>Which of the following strategies is described as "differentiation"?</questionString>
+        <option>Competing based on low prices</option>
+        <option>Expanding into new markets</option>
+        <option answer="true">Offering unique features to stand out in the market</option>
+        <option>Focusing solely on customer service</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Business</topic>
+        <questionString>In Porter’s Five Forces model, which force refers to the ease with which new competitors can enter a market?</questionString>
+        <option>Supplier Power</option>
+        <option answer="true">Threat of New Entrants</option>
+        <option>Customer Power</option>
+        <option>Threat of Substitutes</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Business</topic>
+        <questionString>What is the primary purpose of conducting a STEEPLE analysis?</questionString>
+        <option>To determine the company’s internal weaknesses</option>
+        <option answer="true">To evaluate external factors affecting the business environment</option>
+        <option>To analyze the company’s market position</option>
+        <option>To forecast future revenue</option>
+    </question>
+</questions>

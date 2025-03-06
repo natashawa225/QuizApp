@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Engineering</topic>
+        <questionString>Which of the following is a passive component in an electronic circuit?</questionString>
+        <option>Transistor</option>
+        <option answer="true">Resistor</option>
+        <option>Diode</option>
+        <option>Capacitor</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Engineering</topic>
+        <questionString>What is the standard unit for electrical resistance?</questionString>
+        <option>Ampere</option>
+        <option answer="true">Ohm</option>
+        <option>Volt</option>
+        <option>Watt</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Engineering</topic>
+        <questionString>What is the primary function of an operational amplifier (Op-Amp)?</questionString>
+        <option>To amplify AC signals</option>
+        <option answer="true">To perform mathematical operations on signals</option>
+        <option>To convert AC to DC</option>
+        <option>To provide a stable power supply</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Engineering</topic>
+        <questionString>Which type of diode is commonly used for rectification of AC to DC?</questionString>
+        <option>Zener diode</option>
+        <option answer="true">Schottky diode</option>
+        <option>LED</option>
+        <option>Photodiode</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Engineering</topic>
+        <questionString>What is the most common digital logic family used in modern electronic devices?</questionString>
+        <option>TTL (Transistor-Transistor Logic)</option>
+        <option>ECL (Emitter-Coupled Logic)</option>
+        <option answer="true">CMOS (Complementary Metal-Oxide-Semiconductor)</option>
+        <option>NMOS (N-Channel Metal-Oxide-Semiconductor)</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Engineering</topic>
+        <questionString>What is the frequency range of the radio frequency (RF) spectrum?</questionString>
+        <option>3 kHz to 30 kHz</option>
+        <option answer="true">300 kHz to 3 GHz</option>
+        <option>30 kHz to 300 kHz</option>
+        <option>3 GHz to 300 GHz</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Engineering</topic>
+        <questionString>Which of the following is not a type of flip-flop?</questionString>
+        <option answer="true">XNOR</option>
+        <option>SR (Set-Reset)</option>
+        <option>JK</option>
+        <option>D(Data)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Engineering</topic>
+        <questionString>Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?</questionString>
+        <option>Kirchhoff’s Voltage Law</option>
+        <option answer="true">Ohm’s Law</option>
+        <option>Kirchhoff’s Current Law</option>
+        <option>Faraday’s Law of Electromagnetic Induction</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Engineering</topic>
+        <questionString>What is the name of the component used to store electrical energy in an electric field?</questionString>
+        <option>Inductor</option>
+        <option>Resistor</option>
+        <option answer="true">Capacitor</option>
+        <option>Diode</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Engineering</topic>
+        <questionString>Which type of transistor is commonly used in digital circuits for switching applications?</questionString>
+        <option>BJT (Bipolar Junction Transistor)</option>
+        <option>SCR (Silicon-Controlled Rectifier)</option>
+        <option answer="true">MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)</option>
+        <option>UJT (Unijunction Transistor)</option>
+    </question>
+</questions>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="EASY">
+        <topic>Economics</topic>
+        <questionString>What is demand?</questionString>
+        <option>The quantity of goods sellers want to sell</option>
+        <option>The cost of production</option>
+        <option answer="true">The quantity of goods consumers are willing and able to buy</option>
+        <option>The government’s spending on goods</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Economics</topic>
+        <questionString>What is supply?</questionString>
+        <option answer="true">The quantity of goods producers are willing to sell at a given price</option>
+        <option>The total income of a firm</option>
+        <option>The demand for products</option>
+        <option>The amount of resources available</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Economics</topic>
+        <questionString>Which of the following is a factor of production?</questionString>
+        <option>Money</option>
+        <option answer="true">Labor</option>
+        <option>Demand</option>
+        <option>Profit</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Economics</topic>
+        <questionString>What does GDP stand for?</questionString>
+        <option>Global Domestic Product</option>
+        <option>Gross Domestic Performance</option>
+        <option answer="true">Gross Domestic Product</option>
+        <option>Government Data Projection</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Economics</topic>
+        <questionString>What is price elasticity of demand?</questionString>
+        <option>The change in supply when demand changes</option>
+        <option>The responsiveness of supply to changes in price</option>
+        <option answer="true">The responsiveness of quantity demanded to changes in price</option>
+        <option>The total value of goods sold at a given price</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Economics</topic>
+        <questionString>Which market structure is characterized by many sellers and identical products?</questionString>
+        <option>Monopoly</option>
+        <option>Oligopoly</option>
+        <option>Monopolistic Competition</option>
+        <option answer="true">Perfect Competition</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Economics</topic>
+        <questionString>What does "opportunity cost" mean?</questionString>
+        <option>The cost of hiring additional workers</option>
+        <option answer="true">The value of the next best alternative foregone</option>
+        <option>The cost of producing an extra unit of output</option>
+        <option>The cost of capital investment</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Economics</topic>
+        <questionString>What is the primary goal of monetary policy?</questionString>
+        <option>To control the level of government debt</option>
+        <option>To regulate international trade</option>
+        <option answer="true">To control inflation and stabilize the currency</option>
+        <option>To promote labor market reforms</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Economics</topic>
+        <questionString>Which economist is associated with the concept of "invisible hand"?</questionString>
+        <option>John Maynard Keynes</option>
+        <option>David Ricardo</option>
+        <option>Thomas Malthus</option>
+        <option answer="true">Adam Smith</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Economics</topic>
+        <questionString>What is the main objective of fiscal policy?</questionString>
+        <option>To regulate prices in the stock market</option>
+        <option answer="true">To influence the economy through government spending and taxation</option>
+        <option>To control the money supply</option>
+        <option>To manage international trade agreements</option>
+    </question>
+</questions>

@@ -1,4 +1,4 @@
-# Quiz Syste
+# Quiz System
 
 ## Overview
 This project is a **Java-based Quiz System**. The system loads user data and quiz questions from external files, allows users to register and log in, take quizzes by topic, view results, and compete on leaderboards. The focus of this project is on **programming implementation**, not software architecture design.
